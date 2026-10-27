@@ -1,0 +1,10 @@
+Received: from mx.company.com ([10.0.0.5]) by mail-server.company.com
+Received: from sketchy-server.net ([203.0.113.42]) by mx.company.com
+Delivered-To: victim@company.com
+Return-Path: <sketchy-hacker@bad-domain.com>
+From: "IT Support" <admin@paypal.com>
+To: victim@company.com
+Subject: URGENT: Account Suspension Notice
+Date: Tue, 27 Oct 2026 10:00:00 -0400
+
+Dear user, your account will be suspended. Click here to verify: http://evil-phishing-link.com/login
